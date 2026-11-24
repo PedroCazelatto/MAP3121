@@ -1,14 +1,14 @@
 # MAP3131
-Projetos da disciplina MAP3132 - Métodos Numéricos e Aplicações (2021), da graduação em Engenharia Elétrica da POLI-USP.
+Projects for MAP3132 - Numerical Methods and Applications (2021), an Electrical Engineering course at POLI-USP.
 
-## Projeto 1
+## Project 1
 
-O primeiro projeto consiste em calcular a solução de um sistema massa-mola através do algoritmo QR para cálculo de autovalores e autovetores de matrizes tridiagonais simétricas.
+The first project computes the solution of a mass-spring system using the QR algorithm to find the eigenvalues and eigenvectors of symmetric tridiagonal matrices.
 
-## Projeto 2
+## Project 2
 
-O segundo projeto consiste em aumentar a abrangência do projeto 1, usando transformações de Householder para converter matrizes reais simétricas em matrizes tridiagonais simétricas. O objetivo é calcular os modos de vibração de uma treliça a partir da matriz de rigidez total dos nós livres.
+The second project extends project 1, using Householder transformations to turn real symmetric matrices into symmetric tridiagonal matrices. The goal is to compute the vibration modes of a truss from the global stiffness matrix of its free nodes.
 
-Modo de vibração principal da treliça estudada, magnificada 1000 vezes:
+Main vibration mode of the studied truss, magnified 1000 times:
 
 ![gif](https://github.com/PedroCazelatto/MAP3131/blob/main/Projeto_2/Trelica1000w1.gif)
